@@ -1,2 +1,0 @@
-# majorproject
-Created with CodeSandbox
